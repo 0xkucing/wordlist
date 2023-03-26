@@ -28,8 +28,6 @@ Wordlist dapat dibuat secara manual atau dengan menggunakan perangkat lunak khus
 
 ## Password 
 
-- ROCKYOU
-
 - DEFAULT LOGIN WORDPRESS
 
 - SQLi BYPASS ADMIN
