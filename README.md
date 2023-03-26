@@ -16,13 +16,13 @@ Wordlist dapat dibuat secara manual atau dengan menggunakan perangkat lunak khus
 
 ## Fuzzing List
 
-- 436079 COMMON
+- 436079 LINE COMMON
 
-- 43795 PHP
+- 43795 LINE PHP
 
-- 1388 ADMIN 
+- 1388 LINE ADMIN 
 
-- 1-100000 NUMBER
+- 1-100000 LINE NUMBER
 
 ## Password 
 
