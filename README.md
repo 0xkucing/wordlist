@@ -1,4 +1,4 @@
-## NvWordlists
+## FuzzLists
 
 ![video](https://user-images.githubusercontent.com/105418279/227754319-685ee588-f637-4570-8569-f33675879c6f.gif)
 
